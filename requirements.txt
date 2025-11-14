@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+yfinance
+ccxt
+ta
+pmdarima
+prophet
+tensorflow
+keras
+joblib
+python-dateutil
